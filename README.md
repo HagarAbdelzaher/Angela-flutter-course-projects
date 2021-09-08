@@ -1,6 +1,7 @@
 # miCard challenge
 
-A new Flutter project.
+
+This app is a personal info card 
 
 ## Getting Started
 
@@ -16,5 +17,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 -----------------------------------------------------------------
 
-This app is a personal info card 
 ![image](https://user-images.githubusercontent.com/50349835/132460020-875a43d8-256b-45b6-860c-0de2456ef722.png)
